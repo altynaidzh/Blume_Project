@@ -1,0 +1,107 @@
+.navbar-brand {
+  color: green;
+}
+
+#searchBtn {
+  margin-top: 20px;
+}
+
+.page-link {
+  background-color: green;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.form-control {
+  margin-top: 20px;
+}
+
+.btn3 {
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardimg {
+  width: 600px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  background: green;
+  height: 417px;
+  padding: 80px 0px 0px 0px;
+}
+
+.footer__block {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: start;
+}
+
+.list__1 {
+  list-style-type: none;
+  color: white;
+  padding: 12px;
+}
+
+.list__2 {
+  list-style-type: none;
+  color: white;
+  padding: 12px;
+}
+
+.list__3 {
+  list-style-type: none;
+  color: white;
+  padding: 12px;
+}
+
+.list__4 {
+  list-style-type: none;
+  color: white;
+  padding: 12px;
+  margin-right: 170px;
+}
+
+.icon__footer {
+  width: 162px;
+}
+
+hr {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  border: 1px solid white;
+  margin: 80px 0px 0px 0px;
+}
+
+#last__block {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 245px;
+  margin-left: 165px;
+}
+
+#copyright__text {
+  color: white;
+  padding-top: 45px;
+  font-size: 14px;
+}
+
+.social__icon {
+  width: 32px;
+  padding: 40px 15px 40px;
+}

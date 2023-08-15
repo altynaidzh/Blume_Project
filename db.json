@@ -1,0 +1,46 @@
+{
+  "flowers": [
+    {
+      "title": "Море цветов",
+      "description": "Альстромерии, гвоздики, хризантемы, герберы, розы",
+      "price": "500",
+      "img": "https://res.cloudinary.com/blume2000/image/upload/c_fill,dpr_1,f_jpg,fl_progressive:steep,h_401,q_auto,w_401/v1688625147/b2k/Produktbilder/20004949",
+      "id": 2
+    },
+    {
+      "title": "Солнце",
+      "description": "Альстромерии, гвоздики, хризантемы, герберы, розы",
+      "price": "800",
+      "img": "https://res.cloudinary.com/blume2000/image/upload/c_fill,dpr_1,f_jpg,fl_progressive:steep,h_401,q_auto,w_401/v1690449095/b2k/Produktbilder/20004910",
+      "id": 3
+    },
+    {
+      "title": "Жозефина",
+      "description": "Альстромерии, гвоздики, хризантемы, герберы, розы",
+      "price": "800",
+      "img": "https://res.cloudinary.com/blume2000/image/upload/c_fill,dpr_1,f_jpg,fl_progressive:steep,h_401,q_auto,w_401/v1685969259/b2k/Produktbilder/20003482",
+      "id": 4
+    },
+    {
+      "title": "Сердечный привет",
+      "description": "Альстромерии, гвоздики, хризантемы, герберы, розы",
+      "price": "800",
+      "img": "https://res.cloudinary.com/blume2000/image/upload/c_fill,dpr_1,f_jpg,fl_progressive:steep,h_401,q_auto,w_401/v1679656215/prod/produkte/PRIMAER/20004290",
+      "id": 5
+    },
+    {
+      "title": "Josi",
+      "description": "Альстромерии, гвоздики, хризантемы, герберы, розы",
+      "price": "800",
+      "img": "https://res.cloudinary.com/blume2000/image/upload/c_fill,dpr_1,f_jpg,fl_progressive:steep,h_401,q_auto,w_401/v1683640155/b2k/Produktbilder/20004686",
+      "id": 6
+    },
+    {
+      "title": "Нежность",
+      "description": "Альстромерии, гвоздики, хризантемы, герберы, розы",
+      "price": "800",
+      "img": "https://res.cloudinary.com/blume2000/image/upload/c_fill,dpr_1,f_jpg,fl_progressive:steep,h_401,q_auto,w_401/v1682579487/b2k/Produktbilder/20003075",
+      "id": 7
+    }
+  ]
+}
